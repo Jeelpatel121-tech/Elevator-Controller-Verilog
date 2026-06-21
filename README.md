@@ -31,17 +31,18 @@ The project is intended for:
 ## Project Structure
 
 Elevator-Controller-RTL-Design-Verilog/
-│
-├── src
-│ └── Elevator_controller.v
-│
-├── testbench
-│ └── Elevator_controller_tb.v
-│
-├── docs
-│ └── waveform.vcd
-│
-└── README.md
+│\
+   ├── src\
+   │   └── Elevator_controller.v\
+   │\
+   ├── testbench\
+   │   └── Elevator_controller_tb.v\
+   │\
+   ├── docs\
+   │   └── waveform.vcd\
+   |   └── state_diagram.png\
+   │\
+   └── README.md
 
 
 ---
